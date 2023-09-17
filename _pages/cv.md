@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Classes preparatoires MP/MPSI. in Paris, France, *Lycee Henri IV*, 2016
+* Diplome Grande Ecole d'Ingenieur. in Palaiseau, France, *ENSAE*, 2019
+* MASt. in Cambridge, UK, *University of Cambridge*, 2021
+* Ph.D in Statistics, in New York City, USA, *Columbia University in the City of New York*, (on-going)
 
 Work experience
 ======
