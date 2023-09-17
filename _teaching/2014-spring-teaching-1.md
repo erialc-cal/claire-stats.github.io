@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Statistics (with Calculus)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2022-fall-teaching
+venue: "Columbia University, Department of Statistics"
+date: 2022-09-01
+location: "NYC, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant for Prof. Robbins in *UN1201: Introduction to Statistics (with calculus)*. Topics covered in class include:
+ 
+- Descriptive statistics
+- Probability 
+- Discrete random variables
+- Continuous random variables
+- Point Estimation
+- Confidence intervals
+- Hypothesis testing based on a single sample
+- Independence, joint, conditionals and contingency table
+- Linear regression
 
-Heading 1
-======
+Course was based on Jay Devore's book : *Probability and Statistics for engineering and the sciences*. 
 
-Heading 2
-======
-
-Heading 3
-======
