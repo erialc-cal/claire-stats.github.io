@@ -11,31 +11,43 @@ redirect_from:
 
 Education
 ======
-* Classes preparatoires MP/MPSI. in Paris, France, *Lycee Henri IV*, 2016
-* Diplome Grande Ecole d'Ingenieur. in Palaiseau, France, *ENSAE*, 2019
-* MASt. in Cambridge, UK, *University of Cambridge*, 2021
-* Ph.D in Statistics, in New York City, USA, *Columbia University in the City of New York*, (on-going)
+* Classes préparatoires MP/MPSI, Paris, France, *Lycee Henri IV*, 2016
+* Diplôme Grande Ecole d'Ingénieur, Palaiseau, France, *ENSAE*, 2019
+* MASt. Part III DPMMS, Cambridge, UK, *University of Cambridge*, 2021
+* Ph.D in Statistics, New York City, USA, *Columbia University in the City of New York*, (on-going)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Aug. 2022 - Sep. 2022: Research Assistant
+    * **CNRS/Ecole Polytechnique**
+    * NLP on minute transcripts of the US Federal Reserve including sentiment analysis of speech and computing of metrics and scores of novelty/transience for each chair 
+
+* May 2020 - Aug. 2021: Research intern
+    * **CNRS/IPVF**
+    * Signal processing for 4D-opto-photovoltaic measurements 
+* Nov. 2020 - May 2021: Research assistant
+    * **Aeroports de Paris** 
+    * Parametric and non parametric models for airport traffic prediction 
+
+* Jun. 2020 - Sep. 2020: Data analyst intern
+  * **namR**
+  * Duties included: roadmap analysis for geospatial data of Spanish cadastre
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * English (fluent)
+  * French (native)
+  * Chinese mandarin (spoken fluently)
+  * German (rudiments)
+  
+* Coding (in order of proficiency)
+  * Python
+  * R
+  * Stata, SAS, SQL
+
 
 Publications
 ======
